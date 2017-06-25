@@ -3,7 +3,7 @@ __author__ = 'zhaoyuntao'
 import numpy.core.multiarray
 from pyocr import pyocr
 from PIL import Image
-from pylab import *
+from pylab import sys
 import glob
 import os
 import _carnumber_detect
